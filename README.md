@@ -1,4 +1,4 @@
-- 👋 Hi, @ZinIon is my Gaming name. My real name is Zain Qureshi 
+- 👋 Hi, @ZinIon is my gaming name. My real name is Zain Qureshi 
 - 👀 I am a coder (isn't that obvious LOL)
 - 🌱 I’m currently learning Javascript frameworks and Web 3.0
 - 💞️ I’m looking to collaborate on c# and java. 
